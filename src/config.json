@@ -10,5 +10,11 @@
         "type": "checkbox",
         "name": "_SHOW_CONSOLE",
         "default": true
+    },
+    {
+        "name": "TELEMETRY",
+        "type": "checkbox",
+        "label": "发送使用数据和错误报告",
+        "help": "帮助开发者改进脚本，这个报告会被认为是机密的，匿名的。"
     }
 ]

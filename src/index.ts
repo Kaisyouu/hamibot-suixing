@@ -8,5 +8,7 @@
  */
 import {} from "./global";
 import { init } from "./lib/init";
+import { operate } from "./operate";
 
 init();
+operate();
